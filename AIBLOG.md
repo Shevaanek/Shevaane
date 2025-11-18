@@ -1,4 +1,4 @@
-ARTIFICIAL INTELLIGENCE[AI]:
+ARTIFICIAL INTELLIGENCE [AI] BLOG:
 
 Artificial intelligence (AI) is the field of computer science focused on creating systems that can perform tasks that normally require human intelligence. Think of it as teaching machines to learn, reason, solve problems, and make decisions.
 
